@@ -1,3 +1,9 @@
+/** Primitive aid kit for memory leaks in C
+
+	author: Rafał Przywara <ptah.peteh@gmail.com>, (c) 2016
+	license: MIT
+*/
+
 #include <stddef.h>
 #include <stdlib.h>
 
